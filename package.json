@@ -1,0 +1,23 @@
+{
+  "name": "hello-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a-default-type.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goodjwon/hello-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goodjwon/hello-typescript/issues"
+  },
+  "homepage": "https://github.com/goodjwon/hello-typescript#readme",
+  "devDependencies": {
+    "@tsconfig/node12": "^1.0.7",
+    "@tsconfig/recommended": "^1.0.1"
+  }
+}
